@@ -1,4 +1,4 @@
-Mermaid diagram for Exercise 0.4 follows
+Sequence diagram for Exercise 0.4 follows
 
 ```mermaid
 sequenceDiagram
