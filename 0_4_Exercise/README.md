@@ -7,7 +7,7 @@ sequenceDiagram
 
     browser->>server: POST [textbox_content] https://studies.cs.helsinki.fi/exampleapp/new_note
     activate server
-    server-->>browser: 302 Redirect https://studies.cs.helsinki.fi/exampleapp/notes
+    server-->>browser: 302 Redirect exampleapp/notes
     deactivate server
 
     Note right of browser: The browser sends the contents of the textbox as a string to the server
