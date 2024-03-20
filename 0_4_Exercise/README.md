@@ -1,3 +1,7 @@
+Solution for Full Stack Open Exercise 0.4: https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6
+
+This exercise asks for a sequence diagram "depicting the situation where the user creates a new note on the page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking the Save button."
+
 Sequence diagram for Exercise 0.4 follows
 
 ```mermaid
